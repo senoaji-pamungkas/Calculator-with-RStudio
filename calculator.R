@@ -2,7 +2,7 @@ print("select your choice")
 print("1. increase")
 print("2. subtraction")
 print("3. multiplication")
-print("4. distribution")
+print("4. Distribution")
 print("5. Triangle")
 
 numb1 <- as.double(readline("Input your first number: "))

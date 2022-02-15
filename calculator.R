@@ -1,7 +1,7 @@
-print("select your choice")
-print("1. increase")
-print("2. subtraction")
-print("3. multiplication")
+print("Select your choice")
+print("1. Increase")
+print("2. Subtraction")
+print("3. Multiplication")
 print("4. Distribution")
 print("5. Triangle")
 
